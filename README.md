@@ -14,6 +14,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giuseppe-viterbo-418306252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giuseppe-viterbo-418306252" height="30" width="40" /></a>
+<a href="https://t.me/Vepe99" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="https://t.me/Vepe99" height="30" width="40" /></a>
+<a href="mailto:viterbogiuseppe99@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mailto:viterbogiuseppe99@gmail.com" height="30" width="40" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
